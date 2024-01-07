@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refractive Laser Surgery | TK</title>
+    <link>https://tobias-kehrer.github.io/tag/refractive-laser-surgery/</link>
+      <atom:link href="https://tobias-kehrer.github.io/tag/refractive-laser-surgery/index.xml" rel="self" type="application/rss+xml" />
+    <description>Refractive Laser Surgery</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tobias-kehrer.github.io/media/icon_hu3cc5df0f4e899153826e79814f74b54d_158524_512x512_fill_lanczos_center_3.png</url>
+      <title>Refractive Laser Surgery</title>
+      <link>https://tobias-kehrer.github.io/tag/refractive-laser-surgery/</link>
+    </image>
+    
+    <item>
+      <title>A simple cornea deformation model</title>
+      <link>https://tobias-kehrer.github.io/publication/schwind_2021/</link>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://tobias-kehrer.github.io/publication/schwind_2021/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;em&gt;&lt;strong&gt;Patent&lt;/strong&gt;&lt;/em&gt; button above to visit the website of the patent.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis of Impact of Humidity and Temperature on Excimer Laser Ablation of Polyethylene Terephthalate, Polymethylmethacrylate, and Porcine Corneal Tissue</title>
+      <link>https://tobias-kehrer.github.io/publication/schwind_2019/</link>
+      <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://tobias-kehrer.github.io/publication/schwind_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

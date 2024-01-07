@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patents | TK</title>
+    <link>https://tobias-kehrer.github.io/patents/</link>
+      <atom:link href="https://tobias-kehrer.github.io/patents/index.xml" rel="self" type="application/rss+xml" />
+    <description>Patents</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tobias-kehrer.github.io/media/icon_hu3cc5df0f4e899153826e79814f74b54d_158524_512x512_fill_lanczos_center_3.png</url>
+      <title>Patents</title>
+      <link>https://tobias-kehrer.github.io/patents/</link>
+    </image>
+    
+    <item>
+      <title>Verfahren zum Bereitstellen von Steuerdaten für einen Laser einer Behandlungsvorrichtung</title>
+      <link>https://tobias-kehrer.github.io/patents/schwind_1/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://tobias-kehrer.github.io/patents/schwind_1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Die Erfindung betrifft Vorrichtungen und ein Verfahren zum Bereitstellen von Steuerdaten für einen Laser (18) einer Behandlungsvorrichtung (10) für die Korrektur einer Hornhaut (26). Das Verfahren umfasst als Schritte ein Bestimmen (S10) einer Nachschlagetabelle für vorgegebene Hornhautparameter mittels eines Horn- hautdeformationsmodells zum Ausgleich einer Deformation der Hornhaut (26), wobei durch das Hornhautdeformations- modell die Hornhaut (26) in einem deformierten und nicht- deformierten Zustand modellierbar ist, wobei zur Bestim- mung der Nachschlagetabelle ein Wert von zumindest einem vorgegebenen Hornhautparameter im nicht-deformierten Zustand der Hornhaut variiert wird und eine Auswirkung dieser Variation auf Werte der Hornhautparameter im deformierten Zustand der Hornhaut ermittelt wird, ein Ermitteln (S12) eines zu erreichenden Hornhautwerts aus vorbestimmten Untersuchungsdaten, ein Bestimmen (S14) eines deformationskorrigierten zu erreichenden Hornhautwerts zum Ausgleich der Deformation der Hornhaut (26) mittels der Nachschlagetabelle, und ein Bereitstellen (S16) von Steuerdaten, die zumindest den deformationskorrigierten zu erreichenden Hornhautwert zur Korrektur der Hornhaut verwenden.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;em&gt;&lt;strong&gt;DPMA&lt;/strong&gt;&lt;/em&gt; button above to see the patent on the website of the &amp;ldquo;German Patent and Trademark Office&amp;rdquo;/&amp;ldquo;Deutsches Patent- und Markenamt&amp;rdquo; (DPMA).&lt;br&gt;
+You can find the patent (automatic english translation) on Google Patents via the &lt;em&gt;&lt;strong&gt;Google Patents&lt;/strong&gt;&lt;/em&gt; button.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
