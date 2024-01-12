@@ -80,10 +80,10 @@
     </item>
     
     <item>
-      <title>Improving Transmon Qudit Measurement on IBM Quantum Hardware</title>
-      <link>https://tobias-kehrer.github.io/publication/qudit_preprint/</link>
+      <title>Improving transmon qudit measurement on IBM Quantum hardware</title>
+      <link>https://tobias-kehrer.github.io/publication/qudit_2024/</link>
       <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://tobias-kehrer.github.io/publication/qudit_preprint/</guid>
+      <guid>https://tobias-kehrer.github.io/publication/qudit_2024/</guid>
       <description></description>
     </item>
     
@@ -348,7 +348,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-814573962&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-983562174&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -358,7 +358,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-814573962&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-983562174&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
