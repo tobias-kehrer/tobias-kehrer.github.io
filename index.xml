@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>Quantum synchronization through the interference blockade</title>
+      <link>https://tobias-kehrer.github.io/publication/spin1_block_2024/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://tobias-kehrer.github.io/publication/spin1_block_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Blog with Jupyter Notebooks!</title>
       <link>https://tobias-kehrer.github.io/post/blog-with-jupyter/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
@@ -348,7 +356,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-983562174&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-542619837&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -358,7 +366,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-983562174&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-542619837&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
