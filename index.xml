@@ -100,7 +100,7 @@
       <link>https://tobias-kehrer.github.io/patents/schwind_1/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://tobias-kehrer.github.io/patents/schwind_1/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Die Erfindung betrifft Vorrichtungen und ein Verfahren zum Bereitstellen von Steuerdaten für einen Laser (18) einer Behandlungsvorrichtung (10) für die Korrektur einer Hornhaut (26). Das Verfahren umfasst als Schritte ein Bestimmen (S10) einer Nachschlagetabelle für vorgegebene Hornhautparameter mittels eines Horn- hautdeformationsmodells zum Ausgleich einer Deformation der Hornhaut (26), wobei durch das Hornhautdeformations- modell die Hornhaut (26) in einem deformierten und nicht- deformierten Zustand modellierbar ist, wobei zur Bestim- mung der Nachschlagetabelle ein Wert von zumindest einem vorgegebenen Hornhautparameter im nicht-deformierten Zustand der Hornhaut variiert wird und eine Auswirkung dieser Variation auf Werte der Hornhautparameter im deformierten Zustand der Hornhaut ermittelt wird, ein Ermitteln (S12) eines zu erreichenden Hornhautwerts aus vorbestimmten Untersuchungsdaten, ein Bestimmen (S14) eines deformationskorrigierten zu erreichenden Hornhautwerts zum Ausgleich der Deformation der Hornhaut (26) mittels der Nachschlagetabelle, und ein Bereitstellen (S16) von Steuerdaten, die zumindest den deformationskorrigierten zu erreichenden Hornhautwert zur Korrektur der Hornhaut verwenden.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Die Erfindung betrifft Vorrichtungen und ein Verfahren zum Bereitstellen von Steuerdaten für einen Laser (18) einer Behandlungsvorrichtung (10) für die Korrektur einer Hornhaut (26). Das Verfahren umfasst als Schritte ein Bestimmen (S10) einer Nachschlagetabelle für vorgegebene Hornhautparameter mittels eines Hornhautdeformationsmodells zum Ausgleich einer Deformation der Hornhaut (26), wobei durch das Hornhautdeformationsmodell die Hornhaut (26) in einem deformierten und nicht-deformierten Zustand modellierbar ist, wobei zur Bestimmung der Nachschlagetabelle ein Wert von zumindest einem vorgegebenen Hornhautparameter im nicht-deformierten Zustand der Hornhaut variiert wird und eine Auswirkung dieser Variation auf Werte der Hornhautparameter im deformierten Zustand der Hornhaut ermittelt wird, ein Ermitteln (S12) eines zu erreichenden Hornhautwerts aus vorbestimmten Untersuchungsdaten, ein Bestimmen (S14) eines deformationskorrigierten zu erreichenden Hornhautwerts zum Ausgleich der Deformation der Hornhaut (26) mittels der Nachschlagetabelle, und ein Bereitstellen (S16) von Steuerdaten, die zumindest den deformationskorrigierten zu erreichenden Hornhautwert zur Korrektur der Hornhaut verwenden.&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;em&gt;&lt;strong&gt;DPMA&lt;/strong&gt;&lt;/em&gt; button above to see the patent on the website of the &amp;ldquo;German Patent and Trademark Office&amp;rdquo;/&amp;ldquo;Deutsches Patent- und Markenamt&amp;rdquo; (DPMA).&lt;br&gt;
@@ -356,7 +356,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-297436518&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-431972685&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -366,7 +366,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-297436518&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-431972685&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
