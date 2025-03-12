@@ -5,12 +5,20 @@
     <link>https://tobias-kehrer.github.io/tag/quantum-synchronization/</link>
       <atom:link href="https://tobias-kehrer.github.io/tag/quantum-synchronization/index.xml" rel="self" type="application/rss+xml" />
     <description>Quantum Synchronization</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tobias-kehrer.github.io/media/icon_hu3cc5df0f4e899153826e79814f74b54d_158524_512x512_fill_lanczos_center_3.png</url>
       <title>Quantum Synchronization</title>
       <link>https://tobias-kehrer.github.io/tag/quantum-synchronization/</link>
     </image>
+    
+    <item>
+      <title>Quantum synchronization of twin limit-cycle oscillators</title>
+      <link>https://tobias-kehrer.github.io/publication/twin_limit_cycles_2025/</link>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://tobias-kehrer.github.io/publication/twin_limit_cycles_2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Quantum synchronization through the interference blockade</title>
