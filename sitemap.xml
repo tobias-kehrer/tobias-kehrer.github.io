@@ -10,11 +10,35 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tobias-kehrer.github.io/publication-type/article-journal/</loc>
-    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
+    <loc>https://tobias-kehrer.github.io/publication-type/patent/</loc>
+    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tobias-kehrer.github.io/tag/patent/</loc>
+    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tobias-kehrer.github.io/patents/</loc>
+    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tobias-kehrer.github.io/publication_types/</loc>
+    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tobias-kehrer.github.io/tags/</loc>
+    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tobias-kehrer.github.io/patents/schwind_2/</loc>
+    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tobias-kehrer.github.io/patents/schwind_3/</loc>
+    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tobias-kehrer.github.io/publication-type/article-journal/</loc>
     <lastmod>2025-03-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -27,10 +51,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tobias-kehrer.github.io/publication/nonreciprocal_qsynch_2025/</loc>
-    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tobias-kehrer.github.io/tags/</loc>
     <lastmod>2025-03-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -64,18 +84,6 @@
   </url><url>
     <loc>https://tobias-kehrer.github.io/tag/qudits/</loc>
     <lastmod>2023-07-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tobias-kehrer.github.io/publication-type/patent/</loc>
-    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tobias-kehrer.github.io/tag/patent/</loc>
-    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tobias-kehrer.github.io/patents/</loc>
-    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tobias-kehrer.github.io/patents/schwind_1/</loc>

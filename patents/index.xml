@@ -5,12 +5,42 @@
     <link>https://tobias-kehrer.github.io/patents/</link>
       <atom:link href="https://tobias-kehrer.github.io/patents/index.xml" rel="self" type="application/rss+xml" />
     <description>Patents</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tobias-kehrer.github.io/media/icon_hu3cc5df0f4e899153826e79814f74b54d_158524_512x512_fill_lanczos_center_3.png</url>
       <title>Patents</title>
       <link>https://tobias-kehrer.github.io/patents/</link>
     </image>
+    
+    <item>
+      <title>Verfahren zum Bereitstellen von Steuerdaten für einen Laser einer Behandlungsvorrichtung</title>
+      <link>https://tobias-kehrer.github.io/patents/schwind_2/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://tobias-kehrer.github.io/patents/schwind_2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Die Erfindung betrifft ein Verfahren zum Bereitstellen von Steuerdaten für einen Laser (18) für die Korrektur einer Hornhaut (26). Das Verfahren umfasst ein Ermitteln (S10) einer Hornhautgeometrie; ein Ermitteln (S12) einer anterioren und posterioren Grenzfläche (14, 16) eines Lentikels (12), und ein Bestimmen (S14) einer durch ein Kontaktelement (28) deformierten Hornhaut (26) mittels eines Hornhautdeformationsmodells, wobei in dem Hornhautdeformationsmodell die Hornhaut (26) aus jeweiligen zentralen Hornhautflächen (34, 36) zwischen einer anterioren Hornhautfläche (30) und einer posterioren Hornhautfläche (32) ausgebildet ist, wobei zur Bestimmung der deformierten Hornhaut (26) die anteriore Hornhautkrümmung zu einer vorgegebenen Krümmung des Kontaktelements (28) verändert wird und die zentralen Hornhautflächen (34, 36) mittels einer Deformation an die veränderte Krümmung der anterioren Hornhautfläche (30) angepasst werden. Des Weiteren erfolgt ein Bestimmen (S16) eines deformierten Lentikels (12) mittels der deformierten Hornhaut (26), und ein Bereitstellen (S18) des deformierten Lentikels (12) als Steuerdaten zum Steuern des Lasers.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;em&gt;&lt;strong&gt;DPMA&lt;/strong&gt;&lt;/em&gt; button above to see the patent on the website of the &amp;ldquo;German Patent and Trademark Office&amp;rdquo;/&amp;ldquo;Deutsches Patent- und Markenamt&amp;rdquo; (DPMA).&lt;br&gt;
+You can find the patent (automatic english translation) on Google Patents via the &lt;em&gt;&lt;strong&gt;Google Patents&lt;/strong&gt;&lt;/em&gt; button.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Verfahren zum Bereitstellen von Steuerdaten für einen Laser einer Behandlungsvorrichtung</title>
+      <link>https://tobias-kehrer.github.io/patents/schwind_3/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://tobias-kehrer.github.io/patents/schwind_3/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Die Erfindung betrifft ein Verfahren zum Bereitstellen von Steuerdaten für die Korrektur einer Hornhaut (26). Das Verfahren umfasst ein Ermitteln (S10) einer Hornhautgeometrie; ein Ermitteln (S12) einer zu erreichenden Korrektur, für die eine anteriore und eine posteriore Grenzfläche (14, 16) eines Lentikels (12) der Hornhaut (26) bestimmt werden; ein Bestimmen (S14) einer deformierten Hornhaut (26), die durch die Entfernung des Lentikels (12) aus der Hornhaut (26) erwartet wird, mittels eines Hornhautdeformationsmodells, in dem die Hornhaut (26) mit der ermittelten Hornhautgeometrie aus jeweiligen zentralen Hornhautflächen (34, 36) ausgebildet ist, wobei zur Bestimmung der deformierten Hornhaut ein Schließen eines Bereichs zwischen der anterioren (16) und posterioren Grenzfläche (14) modelliert wird, wodurch die zentralen Hornhautflächen (34, 36) verändert werden. Ferner erfolgt ein Ermitteln (S16) eines Deformationskorrekturwertes mittels der deformierten Hornhaut (26); ein Anpassen (S18) der zu erreichenden Korrektur mittels des Deformationskorrekturwerts; und ein Bereitstellen (S20) der Steuerdaten mit der angepassten zu erreichenden Korrektur.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;em&gt;&lt;strong&gt;DPMA&lt;/strong&gt;&lt;/em&gt; button above to see the patent on the website of the &amp;ldquo;German Patent and Trademark Office&amp;rdquo;/&amp;ldquo;Deutsches Patent- und Markenamt&amp;rdquo; (DPMA).&lt;br&gt;
+You can find the patent (automatic english translation) on Google Patents via the &lt;em&gt;&lt;strong&gt;Google Patents&lt;/strong&gt;&lt;/em&gt; button.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Verfahren zum Bereitstellen von Steuerdaten für einen Laser einer Behandlungsvorrichtung</title>
