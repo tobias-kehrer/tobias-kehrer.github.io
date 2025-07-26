@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thesis | Tobias Kehrer</title>
+    <link>https://tobias-kehrer.github.io/thesis/</link>
+      <atom:link href="https://tobias-kehrer.github.io/thesis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thesis</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tobias-kehrer.github.io/thesis/featured.png</url>
+      <title>Thesis</title>
+      <link>https://tobias-kehrer.github.io/thesis/</link>
+    </image>
+    
+    <item>
+      <title>Classical Nonreciprocally Coupled Oscillators</title>
+      <link>https://tobias-kehrer.github.io/thesis/two_classical_nonrecip/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://tobias-kehrer.github.io/thesis/two_classical_nonrecip/</guid>
+      <description>&lt;p&gt;Mean-field equations of two nonreciprocally coupled oscillators, see &lt;strong&gt;Fig. X.X&lt;/strong&gt;.&lt;/p&gt;
+&lt;video class=&#34;video-shortcode&#34; preload=&#34;auto&#34; controls autoplay=&#34;true&#34; loop=&#34;true&#34;&gt;
+    &lt;source src=&#34;https://tobias-kehrer.github.io/videos/fig9.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    There should have been a video here but your browser does not seem
+    to support it.
+&lt;/video&gt;
+&lt;p&gt;Two oscillators with external drive &lt;em&gt;Ω&lt;sub&gt;A&lt;/sub&gt; = 0.5ɣ&lt;sup&gt;A&lt;/sup&gt;&lt;sub&gt;g&lt;/sub&gt;&lt;/em&gt; described by Eqs. (X.X) and (X.X).
+(a) Phase diagram where each color denotes a different phase.
+White pixels were not assigned any phase.
+The gray line denotes &lt;em&gt;g̃ = g&lt;sub&gt;AB&lt;/sub&gt;&lt;/em&gt;.
+(b) Spectrum &lt;em&gt;𝒮&lt;sub&gt;AA&lt;/sub&gt;(ω&lt;sub&gt;A&lt;/sub&gt;)&lt;/em&gt; for &lt;em&gt;g̃ = 0.7ɣ&lt;sup&gt;A&lt;/sup&gt;_d&lt;/em&gt; (location of upper symbols in (a)).
+The dashed white curves indicate &lt;em&gt;ω&lt;sub&gt;±&lt;/sub&gt;&lt;/em&gt; and &lt;em&gt;2ω&lt;sub&gt;±&lt;/sub&gt;&lt;/em&gt; defined in Eq. (X.X).
+Panels (c) to (e) show the time evolutions of one phase each corresponding to the symbol next to the panel label.
+The values of &lt;em&gt;g&lt;sub&gt;AB&lt;/sub&gt;&lt;/em&gt; and &lt;em&gt;g̃&lt;/em&gt; equal the coordinates of the respective symbol in (a).
+(c) Phase locking to &lt;em&gt;ϕ&lt;sub&gt;A&lt;/sub&gt; = ϕ&lt;sub&gt;B&lt;/sub&gt; = -π/2&lt;/em&gt;.
+(d) Wobble motion: varying amplitudes and oscillating phases around &lt;em&gt;ϕ&lt;sub&gt;AB&lt;/sub&gt; ≈ ±π/2&lt;/em&gt;.
+(e) Partial traveling-wave states: constantly increasing &lt;em&gt;ϕ&lt;sub&gt;A&lt;/sub&gt;&lt;/em&gt;, oscillating &lt;em&gt;ϕ&lt;sub&gt;B&lt;/sub&gt;&lt;/em&gt; around &lt;em&gt;-π/2&lt;/em&gt;.
+The yellow phase (top left) corresponds to phase locking to &lt;em&gt;ϕ&lt;sub&gt;AB&lt;/sub&gt; = π&lt;/em&gt;, similar to Fig. X(c), where for &lt;em&gt;g̃&amp;gt;g&lt;sub&gt;AB&lt;/sub&gt;&lt;/em&gt; (&lt;em&gt;g̃&amp;lt;g&lt;sub&gt;AB&lt;/sub&gt;&lt;/em&gt;) &lt;em&gt;ϕ&lt;sub&gt;A&lt;/sub&gt; = -π/2&lt;/em&gt; (&lt;em&gt;ϕ&lt;sub&gt;A&lt;/sub&gt; = π/2&lt;/em&gt;).
+The darker orange phase (center right) hosts modulated traveling-wave states, similar to Fig. X(d).
+A list of rules and thresholds for each class of steady states is given in.&lt;/p&gt;
+&lt;p&gt;━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━&lt;/p&gt;
+&lt;p&gt;Mean-field equations of three nonreciprocally coupled oscillators, see &lt;strong&gt;Fig. X.X&lt;/strong&gt;.&lt;/p&gt;
+&lt;video class=&#34;video-shortcode&#34; preload=&#34;auto&#34; controls autoplay=&#34;true&#34; loop=&#34;true&#34;&gt;
+    &lt;source src=&#34;https://tobias-kehrer.github.io/videos/fig10.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    There should have been a video here but your browser does not seem
+    to support it.
+&lt;/video&gt;
+&lt;p&gt;Open chain of three oscillators described by Eq. (X.X).
+(a) Phase diagram where each color denotes a different phase.
+White pixels were not assigned any phase.
+Panels (b) to (g) show the time evolutions of one phase each corresponding to the symbol next to the panel label.
+The values of &lt;em&gt;g&lt;sub&gt;&amp;ndash;&lt;/sub&gt;&lt;/em&gt; and &lt;em&gt;g̃&lt;/em&gt; equal the coordinates of the respective symbol in (a).
+(b) Phase locking to &lt;em&gt;Δϕ&lt;sub&gt;j&lt;/sub&gt; = ϕ&lt;sub&gt;j&lt;/sub&gt; - ϕ&lt;sub&gt;j+1&lt;/sub&gt; = π&lt;/em&gt;.
+(c) Wobble motion: varying amplitudes and oscillating phases around &lt;em&gt;Δϕ&lt;sub&gt;j&lt;/sub&gt; ≈ π&lt;/em&gt;.
+(d) Both wobble motion (c) and traveling-wave states (f) exist.
+(e) Modulated traveling-wave states: varying amplitudes and oscillating phases around &lt;em&gt;Δϕ&lt;sub&gt;j&lt;/sub&gt; ≈ ± 2π/3&lt;/em&gt;.
+(f) Traveling-wave states: constantly increasing phases with fixed &lt;em&gt;Δϕ&lt;sub&gt;j&lt;/sub&gt; ≈ ± 2π/3&lt;/em&gt;.
+(g) Phase locking to &lt;em&gt;Δϕ&lt;sub&gt;j&lt;/sub&gt; = 0&lt;/em&gt;.
+A list of rules and thresholds for each class of steady states is given in Sec. X.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Swarmalators</title>
+      <link>https://tobias-kehrer.github.io/thesis/swarmalators/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://tobias-kehrer.github.io/thesis/swarmalators/</guid>
+      <description>&lt;p&gt;Examples of several states of the swarmalator phase diagram, see &lt;strong&gt;Fig. X.X&lt;/strong&gt;.&lt;br&gt;
+The video has two time scales &lt;em&gt;t∈[0,150]&lt;/em&gt; and &lt;em&gt;t∈[150,1000]&lt;/em&gt;.&lt;/p&gt;
+&lt;video class=&#34;video-shortcode&#34; preload=&#34;auto&#34; controls autoplay=&#34;true&#34; loop=&#34;true&#34;&gt;
+    &lt;source src=&#34;https://tobias-kehrer.github.io/videos/swarmalators_phases.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    There should have been a video here but your browser does not seem
+    to support it.
+&lt;/video&gt;
+&lt;p&gt;Classes of steady states of &lt;em&gt;N=100&lt;/em&gt; swarmalators after a duration of &lt;em&gt;t=1000&lt;/em&gt;.
+The top row shows the steady states in 2D position space where the color corresponds to &lt;em&gt;ϕ&lt;sub&gt;j&lt;/sub&gt; - Ψ&lt;/em&gt;, i.e., the phase of each swarmalator subtracted by the complex phase of the order parameter &lt;em&gt;W&lt;/em&gt; defined in Eq. (X.X).
+The order parameter &lt;em&gt;R&lt;/em&gt; is the Kuramoto model order parameter defined in Eq. (X.X).
+The second row shows the correlation between the phase &lt;em&gt;ϕ&lt;sub&gt;j&lt;/sub&gt; - Ψ&lt;/em&gt; of the swarmalators and their azimuthal angle &lt;em&gt;φ&lt;sub&gt;j&lt;/sub&gt;&lt;/em&gt;.
+(a) Static Asynch (StA) for &lt;em&gt;(K,J)=(-0.8,0.2)&lt;/em&gt;.
+(b) Active Phase Wave (ActPW) for &lt;em&gt;(K,J)=(-0.8,1)&lt;/em&gt;.
+(c) Splintered Phase Wave (SpPW) for &lt;em&gt;(K,J)=(-0.1,1)&lt;/em&gt;.
+(d) Static Phase Wave (StPW) for &lt;em&gt;(K,J)=(0,1)&lt;/em&gt;.
+(e) Static Synch (StS) for &lt;em&gt;(K,J)=(0.1,0.2)&lt;/em&gt;. For small &lt;em&gt;|W|&lt;/em&gt;, &lt;em&gt;Ψ&lt;/em&gt; is fluctuating and leads to the fluctuation of the color even if &lt;em&gt;ϕ&lt;sub&gt;j&lt;/sub&gt;&lt;/em&gt; is stable.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Three Classical Nonreciprocally Coupled Oscillators</title>
+      <link>https://tobias-kehrer.github.io/thesis/three_classical_nonrecip-kopie/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://tobias-kehrer.github.io/thesis/three_classical_nonrecip-kopie/</guid>
+      <description>&lt;p&gt;Mean-field equations of three nonreciprocally coupled oscillators, see &lt;strong&gt;Fig. X.X&lt;/strong&gt;.&lt;/p&gt;
+&lt;video class=&#34;video-shortcode&#34; preload=&#34;auto&#34; controls autoplay=&#34;true&#34; loop=&#34;true&#34;&gt;
+    &lt;source src=&#34;https://tobias-kehrer.github.io/videos/fig10.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    There should have been a video here but your browser does not seem
+    to support it.
+&lt;/video&gt;
+&lt;p&gt;Open chain of three oscillators described by Eq. (X.X).
+(a) Phase diagram where each color denotes a different phase.
+White pixels were not assigned any phase.
+Panels (b) to (g) show the time evolutions of one phase each corresponding to the symbol next to the panel label.
+The values of &lt;em&gt;g&lt;sub&gt;&amp;ndash;&lt;/sub&gt;&lt;/em&gt; and &lt;em&gt;g̃&lt;/em&gt; equal the coordinates of the respective symbol in (a).
+(b) Phase locking to &lt;em&gt;Δϕ&lt;sub&gt;j&lt;/sub&gt; = ϕ&lt;sub&gt;j&lt;/sub&gt; - ϕ&lt;sub&gt;j+1&lt;/sub&gt; = π&lt;/em&gt;.
+(c) Wobble motion: varying amplitudes and oscillating phases around &lt;em&gt;Δϕ&lt;sub&gt;j&lt;/sub&gt; ≈ π&lt;/em&gt;.
+(d) Both wobble motion (c) and traveling-wave states (f) exist.
+(e) Modulated traveling-wave states: varying amplitudes and oscillating phases around &lt;em&gt;Δϕ&lt;sub&gt;j&lt;/sub&gt; ≈ ± 2π/3&lt;/em&gt;.
+(f) Traveling-wave states: constantly increasing phases with fixed &lt;em&gt;Δϕ&lt;sub&gt;j&lt;/sub&gt; ≈ ± 2π/3&lt;/em&gt;.
+(g) Phase locking to &lt;em&gt;Δϕ&lt;sub&gt;j&lt;/sub&gt; = 0&lt;/em&gt;.
+A list of rules and thresholds for each class of steady states is given in Sec. X.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Twin Limit Cycle Realized With Trapped Ions</title>
+      <link>https://tobias-kehrer.github.io/thesis/twin_limit_cycles/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://tobias-kehrer.github.io/thesis/twin_limit_cycles/</guid>
+      <description>&lt;p&gt;Sideband cooling and heating on different ion transitions, see &lt;strong&gt;Fig. X.X&lt;/strong&gt;.&lt;br&gt;
+The video has two time scales &lt;em&gt;t∈[0,1001]&lt;/em&gt; and &lt;em&gt;t∈[1001,10000]&lt;/em&gt;.&lt;/p&gt;
+&lt;video class=&#34;video-shortcode&#34; preload=&#34;auto&#34; controls autoplay=&#34;true&#34; loop=&#34;true&#34;&gt;
+    &lt;source src=&#34;https://tobias-kehrer.github.io/videos/TLC_ion_evol_thesis.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    There should have been a video here but your browser does not seem
+    to support it.
+&lt;/video&gt;
+&lt;p&gt;Preliminary data showing that a multi-limit-cycle oscillator can be realized by the nonlinear phonon-ion interaction described in Eq. (X.X).
+The parameters are &lt;em&gt;s&lt;sub&gt;BSB&lt;/sub&gt; = -s&lt;sub&gt;RSB&lt;/sub&gt; = 1&lt;/em&gt;, &lt;em&gt;Ω&lt;sub&gt;0&lt;/sub&gt;&lt;sup style=&#34;margin-left:-7px&#34;&gt;BSB&lt;/sup&gt; = Ω&lt;sub&gt;0&lt;/sub&gt;&lt;sup style=&#34;margin-left:-7px&#34;&gt;RSB&lt;/sup&gt; = 0.1κ&lt;/em&gt;, &lt;em&gt;η&lt;sub&gt;BSB&lt;/sub&gt; = 0.8&lt;/em&gt;, and &lt;em&gt;η&lt;sub&gt;RSB&lt;/sub&gt; = 0.9&lt;/em&gt;.
+(a) Wigner function and marginals of the final state of a time evolution of duration &lt;em&gt;κt = 1000&lt;/em&gt; starting from a coherent state &lt;em&gt;|α=2⟩&lt;/em&gt;.
+(b) Populations &lt;em&gt;ρ&lt;sub&gt;n,n&lt;/sub&gt;&lt;/em&gt; of the final state.
+The curves correspond to the heating &lt;em&gt;Ω&lt;sup&gt;BSB&lt;/sup&gt;&lt;sub style=&#34;margin-left:-30px&#34;&gt;n,n+1&lt;/sub&gt;&lt;/em&gt; and cooling &lt;em&gt;Ω&lt;sup&gt;RSB&lt;/sup&gt;&lt;sub style=&#34;margin-left:-30px&#34;&gt;n,n-1&lt;/sub&gt;&lt;/em&gt; sidebands, see Eq. (X.X).
+Populations of Fock numbers &lt;em&gt;n≥19&lt;/em&gt; are smaller than &lt;em&gt;10&lt;sup style=&#34;margin-left:2px&#34;&gt;-4&lt;/sup&gt;&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
