@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tobias-kehrer.github.io/thesis/qudit_measurement/</loc>
+    <lastmod>2025-08-12T04:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://tobias-kehrer.github.io/thesis/swarmalators/</loc>
     <lastmod>2025-08-12T03:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>

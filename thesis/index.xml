@@ -13,6 +13,26 @@
     </image>
     
     <item>
+      <title>Qudit Measurement on IBM Quantum Hardware</title>
+      <link>https://tobias-kehrer.github.io/thesis/qudit_measurement/</link>
+      <pubDate>Tue, 12 Aug 2025 04:00:00 +0000</pubDate>
+      <guid>https://tobias-kehrer.github.io/thesis/qudit_measurement/</guid>
+      <description>&lt;p&gt;Sweep of readout-drive frequency for a ququart state, see &lt;strong&gt;Fig. X.X(a)&lt;/strong&gt;.&lt;/p&gt;
+&lt;video class=&#34;video-shortcode&#34; preload=&#34;auto&#34; controls autoplay=&#34;true&#34; loop=&#34;true&#34;&gt;
+    &lt;source src=&#34;https://tobias-kehrer.github.io/videos/Qudit_Measurement_centered.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    There should have been a video here but your browser does not seem
+    to support it.
+&lt;/video&gt;
+&lt;p&gt;Measurement of ququart states on &lt;em&gt;ibm_lagos Q4&lt;/em&gt; (July 7, 2023).
+Drive-frequency-dependent and qudit-state-dependent resonator amplitudes, the experimental equivalent of Fig. X.X(a).
+The colored dots are the measurement results of all &lt;em&gt;N = 2000&lt;/em&gt; shots for each prepared Fock state for the drive frequency &lt;em&gt;ω&lt;sub&gt;d&lt;/sub&gt; = ω&lt;sub&gt;0&lt;/sub&gt; + Δω&lt;sub&gt;d&lt;/sub&gt;&lt;/em&gt; with &lt;em&gt;ω&lt;sub&gt;0&lt;/sub&gt;/2π = 7.2463&lt;/em&gt; GHz.
+The black crosses mark the centers of their Gaussian fits and the black straight lines indicate the boundaries of regions assigned to individual Fock states.
+The colored curves (with white shadows) correspond to the centers of Gaussian fits to the Fock states | &lt;em&gt;j&lt;/em&gt; ⟩.
+These boundaries are constructed using the minimum distance estimator, see Eq. X.X.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Swarmalators</title>
       <link>https://tobias-kehrer.github.io/thesis/swarmalators/</link>
       <pubDate>Tue, 12 Aug 2025 03:00:00 +0000</pubDate>
@@ -104,7 +124,7 @@ The video has two time scales &lt;em&gt;t∈[0,1001]&lt;/em&gt; and &lt;em&gt;t�
 &lt;/video&gt;
 &lt;p&gt;Preliminary data showing that a multi-limit-cycle oscillator can be realized by the nonlinear phonon-ion interaction described in Eq. (X.X).
 The parameters are &lt;em&gt;s&lt;sub&gt;BSB&lt;/sub&gt; = -s&lt;sub&gt;RSB&lt;/sub&gt; = 1&lt;/em&gt;, &lt;em&gt;Ω&lt;sub&gt;0&lt;/sub&gt;&lt;sup style=&#34;margin-left:-7px&#34;&gt;BSB&lt;/sup&gt; = Ω&lt;sub&gt;0&lt;/sub&gt;&lt;sup style=&#34;margin-left:-7px&#34;&gt;RSB&lt;/sup&gt; = 0.1κ&lt;/em&gt;, &lt;em&gt;η&lt;sub&gt;BSB&lt;/sub&gt; = 0.8&lt;/em&gt;, and &lt;em&gt;η&lt;sub&gt;RSB&lt;/sub&gt; = 0.9&lt;/em&gt;.
-(a) Wigner function and marginals of the final state of a time evolution of duration &lt;em&gt;κt = 1000&lt;/em&gt; starting from a coherent state &lt;em&gt;|α=2⟩&lt;/em&gt;.
+(a) Wigner function and marginals of the final state of a time evolution of duration &lt;em&gt;κt = 1000&lt;/em&gt; starting from a coherent state |&lt;em&gt;α=2&lt;/em&gt; ⟩.
 (b) Populations &lt;em&gt;ρ&lt;sub&gt;n,n&lt;/sub&gt;&lt;/em&gt; of the final state.
 The curves correspond to the heating &lt;em&gt;Ω&lt;sup&gt;BSB&lt;/sup&gt;&lt;sub style=&#34;margin-left:-30px&#34;&gt;n,n+1&lt;/sub&gt;&lt;/em&gt; and cooling &lt;em&gt;Ω&lt;sup&gt;RSB&lt;/sup&gt;&lt;sub style=&#34;margin-left:-30px&#34;&gt;n,n-1&lt;/sub&gt;&lt;/em&gt; sidebands, see Eq. (X.X).
 Populations of Fock numbers &lt;em&gt;n≥19&lt;/em&gt; are smaller than &lt;em&gt;10&lt;sup style=&#34;margin-left:2px&#34;&gt;-4&lt;/sup&gt;&lt;/em&gt;.&lt;/p&gt;
