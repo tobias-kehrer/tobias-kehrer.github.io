@@ -26,9 +26,8 @@
 &lt;p&gt;Measurement of ququart states on &lt;em&gt;ibm_lagos Q4&lt;/em&gt; (July 7, 2023).
 Drive-frequency-dependent and qudit-state-dependent resonator amplitudes, the experimental equivalent of Fig. X.X(a).
 The colored dots are the measurement results of all &lt;em&gt;N = 2000&lt;/em&gt; shots for each prepared Fock state for the drive frequency &lt;em&gt;ω&lt;sub&gt;d&lt;/sub&gt; = ω&lt;sub&gt;0&lt;/sub&gt; + Δω&lt;sub&gt;d&lt;/sub&gt;&lt;/em&gt; with &lt;em&gt;ω&lt;sub&gt;0&lt;/sub&gt;/2π = 7.2463&lt;/em&gt; GHz.
-The black crosses mark the centers of their Gaussian fits and the black straight lines indicate the boundaries of regions assigned to individual Fock states.
-The colored curves (with white shadows) correspond to the centers of Gaussian fits to the Fock states | &lt;em&gt;j&lt;/em&gt; ⟩.
-These boundaries are constructed using the minimum distance estimator, see Eq. X.X.&lt;/p&gt;
+The black crosses mark the centers of their Gaussian fits.
+The colored curves (with white shadows) correspond to the centers of Gaussian fits to the Fock states | &lt;em&gt;j&lt;/em&gt; ⟩.&lt;/p&gt;
 </description>
     </item>
     
