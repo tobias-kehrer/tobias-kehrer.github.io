@@ -37,14 +37,14 @@
       <link>https://tobias-kehrer.github.io/thesis/qudit_measurement/</link>
       <pubDate>Tue, 12 Aug 2025 04:00:00 +0000</pubDate>
       <guid>https://tobias-kehrer.github.io/thesis/qudit_measurement/</guid>
-      <description>&lt;p&gt;Sweep of readout-drive frequency for a ququart state, see &lt;strong&gt;Fig. X.X(a)&lt;/strong&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Sweep of readout-drive frequency for a ququart state, see &lt;strong&gt;Fig. 4.7(a)&lt;/strong&gt;.&lt;/p&gt;
 &lt;video class=&#34;video-shortcode&#34; preload=&#34;auto&#34; controls autoplay=&#34;true&#34; loop=&#34;true&#34;&gt;
     &lt;source src=&#34;https://tobias-kehrer.github.io/videos/Qudit_Measurement_centered.mp4&#34; type=&#34;video/mp4&#34;&gt;
     There should have been a video here but your browser does not seem
     to support it.
 &lt;/video&gt;
 &lt;p&gt;Measurement of ququart states on &lt;em&gt;ibm_lagos Q4&lt;/em&gt; (July 7, 2023).
-Drive-frequency-dependent and qudit-state-dependent resonator amplitudes, the experimental equivalent of Fig. X.X(a).
+Drive-frequency-dependent and qudit-state-dependent resonator amplitudes, the experimental equivalent of Fig. 4.2(a).
 The colored dots are the measurement results of all &lt;em&gt;N = 2000&lt;/em&gt; shots for each prepared Fock state for the drive frequency &lt;em&gt;ω&lt;sub&gt;d&lt;/sub&gt; = ω&lt;sub&gt;0&lt;/sub&gt; + Δω&lt;sub&gt;d&lt;/sub&gt;&lt;/em&gt; with &lt;em&gt;ω&lt;sub&gt;0&lt;/sub&gt;/2π = 7.2463&lt;/em&gt; GHz.
 The black crosses mark the centers of their Gaussian fits.
 The colored curves (with white shadows) correspond to the centers of Gaussian fits to the Fock states | &lt;em&gt;j&lt;/em&gt; ⟩.&lt;/p&gt;
@@ -56,7 +56,7 @@ The colored curves (with white shadows) correspond to the centers of Gaussian fi
       <link>https://tobias-kehrer.github.io/thesis/swarmalators/</link>
       <pubDate>Tue, 12 Aug 2025 03:00:00 +0000</pubDate>
       <guid>https://tobias-kehrer.github.io/thesis/swarmalators/</guid>
-      <description>&lt;p&gt;Examples of several states of the swarmalator phase diagram, see &lt;strong&gt;Fig. X.X&lt;/strong&gt;.&lt;br&gt;
+      <description>&lt;p&gt;Examples of several states of the swarmalator phase diagram, see &lt;strong&gt;Fig. 6.11&lt;/strong&gt;.&lt;br&gt;
 The video has two time scales &lt;em&gt;t∈[0,150]&lt;/em&gt; and &lt;em&gt;t∈[150,1000]&lt;/em&gt;.&lt;/p&gt;
 &lt;video class=&#34;video-shortcode&#34; preload=&#34;auto&#34; controls autoplay=&#34;true&#34; loop=&#34;true&#34;&gt;
     &lt;source src=&#34;https://tobias-kehrer.github.io/videos/swarmalators_phases.mp4&#34; type=&#34;video/mp4&#34;&gt;
@@ -64,8 +64,8 @@ The video has two time scales &lt;em&gt;t∈[0,150]&lt;/em&gt; and &lt;em&gt;t�
     to support it.
 &lt;/video&gt;
 &lt;p&gt;Classes of steady states of &lt;em&gt;N=100&lt;/em&gt; swarmalators after a duration of &lt;em&gt;t=1000&lt;/em&gt;.
-The top row shows the steady states in 2D position space where the color corresponds to &lt;em&gt;ϕ&lt;sub&gt;j&lt;/sub&gt; - Ψ&lt;/em&gt;, i.e., the phase of each swarmalator subtracted by the complex phase of the order parameter &lt;em&gt;W&lt;/em&gt; defined in Eq. (X.X).
-The order parameter &lt;em&gt;R&lt;/em&gt; is the Kuramoto model order parameter defined in Eq. (X.X).
+The top row shows the steady states in 2D position space where the color corresponds to &lt;em&gt;ϕ&lt;sub&gt;j&lt;/sub&gt; - Ψ&lt;/em&gt;, i.e., the phase of each swarmalator subtracted by the complex phase of the order parameter &lt;em&gt;W&lt;/em&gt; defined in Eq. (6.6.3).
+The order parameter &lt;em&gt;R&lt;/em&gt; is the Kuramoto model order parameter defined in Eq. (6.1.3).
 The second row shows the correlation between the phase &lt;em&gt;ϕ&lt;sub&gt;j&lt;/sub&gt; - Ψ&lt;/em&gt; of the swarmalators and their azimuthal angle &lt;em&gt;φ&lt;sub&gt;j&lt;/sub&gt;&lt;/em&gt;.
 (a) Static Asynch (StA) for &lt;em&gt;(K,J)=(-0.8,0.2)&lt;/em&gt;.
 (b) Active Phase Wave (ActPW) for &lt;em&gt;(K,J)=(-0.8,1)&lt;/em&gt;.
@@ -80,25 +80,25 @@ The second row shows the correlation between the phase &lt;em&gt;ϕ&lt;sub&gt;j&
       <link>https://tobias-kehrer.github.io/thesis/two_classical_nonrecip/</link>
       <pubDate>Tue, 12 Aug 2025 02:00:00 +0000</pubDate>
       <guid>https://tobias-kehrer.github.io/thesis/two_classical_nonrecip/</guid>
-      <description>&lt;p&gt;Mean-field equations of two nonreciprocally coupled oscillators, see &lt;strong&gt;Fig. X.X&lt;/strong&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Mean-field equations of two nonreciprocally coupled oscillators, see &lt;strong&gt;Fig. 9.12&lt;/strong&gt;.&lt;/p&gt;
 &lt;video class=&#34;video-shortcode&#34; preload=&#34;auto&#34; controls autoplay=&#34;true&#34; loop=&#34;true&#34;&gt;
     &lt;source src=&#34;https://tobias-kehrer.github.io/videos/fig9.mp4&#34; type=&#34;video/mp4&#34;&gt;
     There should have been a video here but your browser does not seem
     to support it.
 &lt;/video&gt;
-&lt;p&gt;Two oscillators with external drive &lt;em&gt;Ω&lt;sub&gt;A&lt;/sub&gt; = 0.5ɣ&lt;sup style=&#34;margin-left:3px&#34;&gt;A&lt;/sup&gt;&lt;sub style=&#34;margin-left:-12px&#34;&gt;g&lt;/sub&gt;&lt;/em&gt; described by Eqs. (X.X) and (X.X).
+&lt;p&gt;Two oscillators with external drive &lt;em&gt;Ω&lt;sub&gt;A&lt;/sub&gt; = 0.5ɣ&lt;sup style=&#34;margin-left:3px&#34;&gt;A&lt;/sup&gt;&lt;sub style=&#34;margin-left:-12px&#34;&gt;g&lt;/sub&gt;&lt;/em&gt; described by Eqs. (9.4.7) and (9.4.8).
 (a) Phase diagram where each color denotes a different phase.
 White pixels were not assigned any phase.
 The gray line denotes &lt;em&gt;g̃ = g&lt;sub&gt;AB&lt;/sub&gt;&lt;/em&gt;.
 (b) Spectrum &lt;em&gt;𝒮&lt;sub&gt;AA&lt;/sub&gt;(ω&lt;sub&gt;A&lt;/sub&gt;)&lt;/em&gt; for &lt;em&gt;g̃ = 0.7ɣ&lt;sup style=&#34;margin-left:3px&#34;&gt;A&lt;/sup&gt;&lt;sub style=&#34;margin-left:-12px&#34;&gt;d&lt;/sub&gt;&lt;/em&gt; (location of upper symbols in (a)).
-The dashed white curves indicate &lt;em&gt;ω&lt;sub&gt;±&lt;/sub&gt;&lt;/em&gt; and &lt;em&gt;2ω&lt;sub&gt;±&lt;/sub&gt;&lt;/em&gt; defined in Eq. (X.X).
+The dashed white curves indicate &lt;em&gt;ω&lt;sub&gt;±&lt;/sub&gt;&lt;/em&gt; and &lt;em&gt;2ω&lt;sub&gt;±&lt;/sub&gt;&lt;/em&gt; defined in Eq. (9.5.8).
 Panels (c) to (e) show the time evolutions of one phase each corresponding to the symbol next to the panel label.
 The values of &lt;em&gt;g&lt;sub&gt;AB&lt;/sub&gt;&lt;/em&gt; and &lt;em&gt;g̃&lt;/em&gt; equal the coordinates of the respective symbol in (a).
 (c) Phase locking to &lt;em&gt;ϕ&lt;sub&gt;A&lt;/sub&gt; = ϕ&lt;sub&gt;B&lt;/sub&gt; = -π/2&lt;/em&gt;.
 (d) Wobble motion: varying amplitudes and oscillating phases around &lt;em&gt;ϕ&lt;sub&gt;AB&lt;/sub&gt; ≈ ±π/2&lt;/em&gt;.
 (e) Partial traveling-wave states: constantly increasing &lt;em&gt;ϕ&lt;sub&gt;A&lt;/sub&gt;&lt;/em&gt;, oscillating &lt;em&gt;ϕ&lt;sub&gt;B&lt;/sub&gt;&lt;/em&gt; around &lt;em&gt;-π/2&lt;/em&gt;.
-The yellow phase (top left) corresponds to phase locking to &lt;em&gt;ϕ&lt;sub&gt;AB&lt;/sub&gt; = π&lt;/em&gt;, similar to Fig. X(c), where for &lt;em&gt;g̃&amp;gt;g&lt;sub&gt;AB&lt;/sub&gt;&lt;/em&gt; (&lt;em&gt;g̃&amp;lt;g&lt;sub&gt;AB&lt;/sub&gt;&lt;/em&gt;) &lt;em&gt;ϕ&lt;sub&gt;A&lt;/sub&gt; = -π/2&lt;/em&gt; (&lt;em&gt;ϕ&lt;sub&gt;A&lt;/sub&gt; = π/2&lt;/em&gt;).
-The darker orange phase (center right) hosts modulated traveling-wave states, similar to Fig. X(d).
+The yellow phase (top left) corresponds to phase locking to &lt;em&gt;ϕ&lt;sub&gt;AB&lt;/sub&gt; = π&lt;/em&gt;, similar to Fig. 9.11(c), where for &lt;em&gt;g̃&amp;gt;g&lt;sub&gt;AB&lt;/sub&gt;&lt;/em&gt; (&lt;em&gt;g̃&amp;lt;g&lt;sub&gt;AB&lt;/sub&gt;&lt;/em&gt;) &lt;em&gt;ϕ&lt;sub&gt;A&lt;/sub&gt; = -π/2&lt;/em&gt; (&lt;em&gt;ϕ&lt;sub&gt;A&lt;/sub&gt; = π/2&lt;/em&gt;).
+The darker orange phase (center right) hosts modulated traveling-wave states, similar to Fig. 9.11(d).
 A list of rules and thresholds for each class of steady states is given in.&lt;/p&gt;
 </description>
     </item>
@@ -108,13 +108,13 @@ A list of rules and thresholds for each class of steady states is given in.&lt;/
       <link>https://tobias-kehrer.github.io/thesis/three_classical_nonrecip/</link>
       <pubDate>Tue, 12 Aug 2025 01:00:00 +0000</pubDate>
       <guid>https://tobias-kehrer.github.io/thesis/three_classical_nonrecip/</guid>
-      <description>&lt;p&gt;Mean-field equations of three nonreciprocally coupled oscillators, see &lt;strong&gt;Fig. X.X&lt;/strong&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Mean-field equations of three nonreciprocally coupled oscillators, see &lt;strong&gt;Fig. 9.13&lt;/strong&gt;.&lt;/p&gt;
 &lt;video class=&#34;video-shortcode&#34; preload=&#34;auto&#34; controls autoplay=&#34;true&#34; loop=&#34;true&#34;&gt;
     &lt;source src=&#34;https://tobias-kehrer.github.io/videos/fig10.mp4&#34; type=&#34;video/mp4&#34;&gt;
     There should have been a video here but your browser does not seem
     to support it.
 &lt;/video&gt;
-&lt;p&gt;Open chain of three oscillators described by Eq. (X.X).
+&lt;p&gt;Open chain of three oscillators described by Eq. (9.8.3).
 (a) Phase diagram where each color denotes a different phase.
 White pixels were not assigned any phase.
 Panels (b) to (g) show the time evolutions of one phase each corresponding to the symbol next to the panel label.
@@ -125,7 +125,7 @@ The values of &lt;em&gt;g&lt;sub&gt;&amp;ndash;&lt;/sub&gt;&lt;/em&gt; and &lt;e
 (e) Modulated traveling-wave states: varying amplitudes and oscillating phases around &lt;em&gt;Δϕ&lt;sub&gt;j&lt;/sub&gt; ≈ ±2π/3&lt;/em&gt;.
 (f) Traveling-wave states: constantly increasing phases with fixed &lt;em&gt;Δϕ&lt;sub&gt;j&lt;/sub&gt; ≈ ±2π/3&lt;/em&gt;.
 (g) Phase locking to &lt;em&gt;Δϕ&lt;sub&gt;j&lt;/sub&gt; = 0&lt;/em&gt;.
-A list of rules and thresholds for each class of steady states is given in Sec. X.&lt;/p&gt;
+A list of rules and thresholds for each class of steady states is given in Sec. 9.8.3.&lt;/p&gt;
 </description>
     </item>
     
@@ -134,18 +134,18 @@ A list of rules and thresholds for each class of steady states is given in Sec. 
       <link>https://tobias-kehrer.github.io/thesis/twin_limit_cycles/</link>
       <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://tobias-kehrer.github.io/thesis/twin_limit_cycles/</guid>
-      <description>&lt;p&gt;Sideband cooling and heating on different ion transitions, see &lt;strong&gt;Fig. X.X&lt;/strong&gt;.&lt;br&gt;
+      <description>&lt;p&gt;Sideband cooling and heating on different ion transitions, see &lt;strong&gt;Fig. 10.14&lt;/strong&gt;.&lt;br&gt;
 The video has two time scales &lt;em&gt;t∈[0,1001]&lt;/em&gt; and &lt;em&gt;t∈[1001,10000]&lt;/em&gt;.&lt;/p&gt;
 &lt;video class=&#34;video-shortcode&#34; preload=&#34;auto&#34; controls autoplay=&#34;true&#34; loop=&#34;true&#34;&gt;
     &lt;source src=&#34;https://tobias-kehrer.github.io/videos/TLC_ion_evol_thesis.mp4&#34; type=&#34;video/mp4&#34;&gt;
     There should have been a video here but your browser does not seem
     to support it.
 &lt;/video&gt;
-&lt;p&gt;Preliminary data showing that a multi-limit-cycle oscillator can be realized by the nonlinear phonon-ion interaction described in Eq. (X.X).
+&lt;p&gt;Preliminary data showing that a multi-limit-cycle oscillator can be realized by the nonlinear phonon-ion interaction described in Eq. (10.6.1).
 The parameters are &lt;em&gt;s&lt;sub&gt;BSB&lt;/sub&gt; = -s&lt;sub&gt;RSB&lt;/sub&gt; = 1&lt;/em&gt;, &lt;em&gt;Ω&lt;sub&gt;0&lt;/sub&gt;&lt;sup style=&#34;margin-left:-7px&#34;&gt;BSB&lt;/sup&gt; = Ω&lt;sub&gt;0&lt;/sub&gt;&lt;sup style=&#34;margin-left:-7px&#34;&gt;RSB&lt;/sup&gt; = 0.1κ&lt;/em&gt;, &lt;em&gt;η&lt;sub&gt;BSB&lt;/sub&gt; = 0.8&lt;/em&gt;, and &lt;em&gt;η&lt;sub&gt;RSB&lt;/sub&gt; = 0.9&lt;/em&gt;.
 (a) Wigner function and marginals of the final state of a time evolution of duration &lt;em&gt;κt = 1000&lt;/em&gt; starting from a coherent state |&lt;em&gt;α=2&lt;/em&gt; ⟩.
 (b) Populations &lt;em&gt;ρ&lt;sub&gt;n,n&lt;/sub&gt;&lt;/em&gt; of the final state.
-The curves correspond to the heating &lt;em&gt;Ω&lt;sup&gt;BSB&lt;/sup&gt;&lt;sub style=&#34;margin-left:-30px&#34;&gt;n,n+1&lt;/sub&gt;&lt;/em&gt; and cooling &lt;em&gt;Ω&lt;sup&gt;RSB&lt;/sup&gt;&lt;sub style=&#34;margin-left:-30px&#34;&gt;n,n-1&lt;/sub&gt;&lt;/em&gt; sidebands, see Eq. (X.X).
+The curves correspond to the heating &lt;em&gt;Ω&lt;sup&gt;BSB&lt;/sup&gt;&lt;sub style=&#34;margin-left:-30px&#34;&gt;n,n+1&lt;/sub&gt;&lt;/em&gt; and cooling &lt;em&gt;Ω&lt;sup&gt;RSB&lt;/sup&gt;&lt;sub style=&#34;margin-left:-30px&#34;&gt;n,n-1&lt;/sub&gt;&lt;/em&gt; sidebands, see Eq. (10.6.1).
 Populations of Fock numbers &lt;em&gt;n≥19&lt;/em&gt; are smaller than &lt;em&gt;10&lt;sup style=&#34;margin-left:2px&#34;&gt;-4&lt;/sup&gt;&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
@@ -520,7 +520,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-517638492&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-438259617&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -530,7 +530,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-517638492&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-438259617&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
