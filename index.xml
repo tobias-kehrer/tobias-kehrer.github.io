@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>Crystal formation in systems of pseudo-forced swarmalators</title>
+      <link>https://tobias-kehrer.github.io/publication/pseudo_forced_swarmalators/</link>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://tobias-kehrer.github.io/publication/pseudo_forced_swarmalators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Qudit Measurement on IBM Quantum Hardware</title>
       <link>https://tobias-kehrer.github.io/thesis/qudit_measurement/</link>
       <pubDate>Tue, 12 Aug 2025 04:00:00 +0000</pubDate>
@@ -520,7 +528,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-683541792&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-962874315&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -530,7 +538,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-683541792&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-962874315&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
