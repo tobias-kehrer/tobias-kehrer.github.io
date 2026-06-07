@@ -5,12 +5,35 @@
     <link>https://tobias-kehrer.github.io/tag/patent/</link>
       <atom:link href="https://tobias-kehrer.github.io/tag/patent/index.xml" rel="self" type="application/rss+xml" />
     <description>Patent</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tobias-kehrer.github.io/media/icon_hu3cc5df0f4e899153826e79814f74b54d_158524_512x512_fill_lanczos_center_3.png</url>
       <title>Patent</title>
       <link>https://tobias-kehrer.github.io/tag/patent/</link>
     </image>
+    
+    <item>
+      <title>Verfahren zum Bereitstellen von Steuerdaten für einen augenchirurgischen Laser sowie Behandlungsvorrichtung mit zumindest einem entsprechenden augenchirurgischen Laser</title>
+      <link>https://tobias-kehrer.github.io/patents/schwind_4/</link>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://tobias-kehrer.github.io/patents/schwind_4/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Verfahren zum Bereitstellen von Steuerdaten für einen augenchirurgischen Laser (18) einer Behandlungsvorrichtung (10), wobei das Verfahren die folgenden, durch eine Steuereinrichtung (20) durchgeführten Schritte aufweist:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bestimmen zumindest einer Schnittfläche (14, 16) in einer Kornea (26) eines menschlichen oder tierischen Auges (30),&lt;/li&gt;
+&lt;li&gt;Festlegen eines Inzisionsverlaufs (17, 17&amp;rsquo;), welcher sich ausgehend von einer Außenseite der Kornea (26) zumindest zu einer der Schnittflächen (14, 16) erstreckt, wobei der Inzisionsverlauf
+(17, 17&amp;rsquo;) zwischen der Außenseite und der jeweiligen Schnittfläche (14, 16) zumindest zwei Abschnitte (17a, 17b, 17c) mit verschiedenen Steigungswerten aufweist, und wobei der Inzisionsverlauf (17, 17&amp;rsquo;) in einen stumpfen Winkel in der jeweiligen Schnittfläche (14, 16)
+endet,&lt;/li&gt;
+&lt;li&gt;Bereitstellen von Steuerdaten zum Steuern des augenchirurgischen Lasers (18), welche mindestens den festgelegten Inzisionsverlauf (17, 17&amp;rsquo;) umfassen, wobei zum Festlegen
+des Inzisionsverlaufs (17, 17&amp;rsquo;) in einem Querschnitt entlang der optischen Achse des Auges ein Verlaufsprofil mit einem minimalen Flächeninhalt berechnet wird.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;em&gt;&lt;strong&gt;DPMA&lt;/strong&gt;&lt;/em&gt; button above to see the patent on the website of the &amp;ldquo;German Patent and Trademark Office&amp;rdquo;/&amp;ldquo;Deutsches Patent- und Markenamt&amp;rdquo; (DPMA).&lt;br&gt;
+You can find the patent (automatic english translation) on Google Patents via the &lt;em&gt;&lt;strong&gt;Google Patents&lt;/strong&gt;&lt;/em&gt; button.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Verfahren zum Bereitstellen von Steuerdaten für einen Laser einer Behandlungsvorrichtung</title>

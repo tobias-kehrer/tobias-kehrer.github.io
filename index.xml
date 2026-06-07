@@ -33,6 +33,29 @@
     </item>
     
     <item>
+      <title>Verfahren zum Bereitstellen von Steuerdaten für einen augenchirurgischen Laser sowie Behandlungsvorrichtung mit zumindest einem entsprechenden augenchirurgischen Laser</title>
+      <link>https://tobias-kehrer.github.io/patents/schwind_4/</link>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://tobias-kehrer.github.io/patents/schwind_4/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Verfahren zum Bereitstellen von Steuerdaten für einen augenchirurgischen Laser (18) einer Behandlungsvorrichtung (10), wobei das Verfahren die folgenden, durch eine Steuereinrichtung (20) durchgeführten Schritte aufweist:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bestimmen zumindest einer Schnittfläche (14, 16) in einer Kornea (26) eines menschlichen oder tierischen Auges (30),&lt;/li&gt;
+&lt;li&gt;Festlegen eines Inzisionsverlaufs (17, 17&amp;rsquo;), welcher sich ausgehend von einer Außenseite der Kornea (26) zumindest zu einer der Schnittflächen (14, 16) erstreckt, wobei der Inzisionsverlauf
+(17, 17&amp;rsquo;) zwischen der Außenseite und der jeweiligen Schnittfläche (14, 16) zumindest zwei Abschnitte (17a, 17b, 17c) mit verschiedenen Steigungswerten aufweist, und wobei der Inzisionsverlauf (17, 17&amp;rsquo;) in einen stumpfen Winkel in der jeweiligen Schnittfläche (14, 16)
+endet,&lt;/li&gt;
+&lt;li&gt;Bereitstellen von Steuerdaten zum Steuern des augenchirurgischen Lasers (18), welche mindestens den festgelegten Inzisionsverlauf (17, 17&amp;rsquo;) umfassen, wobei zum Festlegen
+des Inzisionsverlaufs (17, 17&amp;rsquo;) in einem Querschnitt entlang der optischen Achse des Auges ein Verlaufsprofil mit einem minimalen Flächeninhalt berechnet wird.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;em&gt;&lt;strong&gt;DPMA&lt;/strong&gt;&lt;/em&gt; button above to see the patent on the website of the &amp;ldquo;German Patent and Trademark Office&amp;rdquo;/&amp;ldquo;Deutsches Patent- und Markenamt&amp;rdquo; (DPMA).&lt;br&gt;
+You can find the patent (automatic english translation) on Google Patents via the &lt;em&gt;&lt;strong&gt;Google Patents&lt;/strong&gt;&lt;/em&gt; button.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Crystal formation in systems of pseudo-forced swarmalators</title>
       <link>https://tobias-kehrer.github.io/publication/pseudo_forced_swarmalators/</link>
       <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
@@ -528,7 +551,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-962874315&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-489562317&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -538,7 +561,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-962874315&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-489562317&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

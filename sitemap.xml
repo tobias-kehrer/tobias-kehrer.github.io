@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tobias-kehrer.github.io/publication-type/patent/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tobias-kehrer.github.io/tag/patent/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tobias-kehrer.github.io/patents/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tobias-kehrer.github.io/publication_types/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tobias-kehrer.github.io/tags/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tobias-kehrer.github.io/patents/schwind_4/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://tobias-kehrer.github.io/publication-type/article-journal/</loc>
     <lastmod>2025-12-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -10,19 +34,11 @@
     <lastmod>2025-12-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tobias-kehrer.github.io/publication_types/</loc>
-    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://tobias-kehrer.github.io/publication/</loc>
     <lastmod>2025-12-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tobias-kehrer.github.io/tag/swarmalators/</loc>
-    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tobias-kehrer.github.io/tags/</loc>
     <lastmod>2025-12-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -48,18 +64,6 @@
   </url><url>
     <loc>https://tobias-kehrer.github.io/thesis/twin_limit_cycles/</loc>
     <lastmod>2025-08-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tobias-kehrer.github.io/publication-type/patent/</loc>
-    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tobias-kehrer.github.io/tag/patent/</loc>
-    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tobias-kehrer.github.io/patents/</loc>
-    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tobias-kehrer.github.io/patents/schwind_2/</loc>
